@@ -1,0 +1,31 @@
+# Compilação
+*.exe
+*.o
+*.out
+*.obj
+
+# Pastas de build
+bin/
+build/
+
+# Backups
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos de log
+*.log
+
+# Pastas geradas automaticamente
+Debug/
+Release/
+out/
+
+# Make
+*.d
